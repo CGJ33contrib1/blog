@@ -8,4 +8,4 @@ UN LIEN VERS [FACEBOOK](https://www.facebook.com/pages/Conseil-d%C3%A9partementa
 
 UN LIEN VERS LE [SITE DU CONSEIL DEPARTEMENTAL JEUNE](http://www.gironde.fr/jcms/c_5098/conseil-departemental-des-jeunes)
 
-UN LIEN VERS [UNE PHOTO DU CDJ 2015-2016] (http://www.gironde.fr/upload/docs/image/jpeg/2015-11/vignette-cdj-2015.jpg)
+UN LIEN VERS [UNE PHOTO DU CDJ 2015-2016](http://www.gironde.fr/upload/docs/image/jpeg/2015-11/vignette-cdj-2015.jpg)
