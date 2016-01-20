@@ -1,6 +1,8 @@
 ---
-published: false
+published: true
+layout: post
 ---
+
 
 ## citation de framasoft
 
