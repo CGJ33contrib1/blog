@@ -1,0 +1,8 @@
+---
+published: false
+---
+
+## SkizGaMinG ces la meilleur chaine 
+
+Enter text in [Departement de la GIRONDE](http:/www.gironde.com/). Use the toolbar above, or click the **?** button for formatting help.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GA67orbSPsk" frameborder="0" allowfullscreen></iframe>
