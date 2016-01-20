@@ -3,10 +3,11 @@ published: false
 ---
 
 ## NOS RESAUX SOCIAUX !
-FACEBOOK : 
-https://www.facebook.com/pages/Conseil-d%C3%A9partemental-des-Jeunes-de-la-Gironde/179149812554
+UN LIEN VERS [FACEBOOK](https://www.facebook.com/pages/Conseil-d%C3%A9partemental-des-Jeunes-de-la-Gironde/179149812554)
 
-UN LIEN VERS LE SITE DU CONSEIL DEPARTEMENTAL DES JEUNES: 
+ 
+
+
 http://www.gironde.fr/jcms/c_5098/conseil-departemental-des-jeunes
 
 PHOTO DU CDJ 2015-2016: 
